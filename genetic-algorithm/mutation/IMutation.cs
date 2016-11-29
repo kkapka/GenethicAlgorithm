@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using genetic_algorithm.population;
 
 namespace genetic_algorithm.mutation
 {
     interface IMutation
     {
+        Population mutate(Population p);
     }
 }

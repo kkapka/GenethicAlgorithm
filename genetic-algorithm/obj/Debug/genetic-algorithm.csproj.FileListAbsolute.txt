@@ -1,1 +1,6 @@
 C:\Users\kamil\Desktop\TO\genetic-algorithm\genetic-algorithm\bin\Debug\genetic-algorithm.exe.config
+C:\Users\kamil\Desktop\TO\genetic-algorithm\genetic-algorithm\bin\Debug\genetic-algorithm.exe
+C:\Users\kamil\Desktop\TO\genetic-algorithm\genetic-algorithm\bin\Debug\genetic-algorithm.pdb
+C:\Users\kamil\Desktop\TO\genetic-algorithm\genetic-algorithm\obj\Debug\genetic-algorithm.csprojResolveAssemblyReference.cache
+C:\Users\kamil\Desktop\TO\genetic-algorithm\genetic-algorithm\obj\Debug\genetic-algorithm.exe
+C:\Users\kamil\Desktop\TO\genetic-algorithm\genetic-algorithm\obj\Debug\genetic-algorithm.pdb
