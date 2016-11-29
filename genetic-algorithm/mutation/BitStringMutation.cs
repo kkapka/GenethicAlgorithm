@@ -1,4 +1,5 @@
 ﻿using genetic_algorithm.population;
+using System;
 
 namespace genetic_algorithm.mutation
 {
@@ -6,6 +7,7 @@ namespace genetic_algorithm.mutation
     {
         public Population mutate(Population p)
         {
+            Console.WriteLine("Bit String Mutation");
             return null;
         }
     }

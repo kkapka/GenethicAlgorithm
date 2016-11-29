@@ -1,4 +1,5 @@
 ﻿using genetic_algorithm.population;
+using System;
 
 namespace genetic_algorithm.selection
 {
@@ -6,6 +7,7 @@ namespace genetic_algorithm.selection
     {
         public Population select(Population p)
         {
+            Console.WriteLine("Tournament Selection");
             return null;
         }
     }

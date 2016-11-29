@@ -1,4 +1,5 @@
 ﻿using genetic_algorithm.population;
+using System;
 
 namespace genetic_algorithm.crossing
 {
@@ -6,6 +7,7 @@ namespace genetic_algorithm.crossing
     {
         public Population cross(Population p)
         {
+            Console.WriteLine("Two Point Crossover");
             return null;
         }
     }
