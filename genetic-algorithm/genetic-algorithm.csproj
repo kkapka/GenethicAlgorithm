@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="crossing\CrossoverContext.cs" />
+    <Compile Include="crossing\CrossoverFactory.cs" />
     <Compile Include="crossing\ICrossover.cs" />
     <Compile Include="crossing\SinglePointCrossover.cs" />
     <Compile Include="crossing\TwoPointCrossover.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="mutation\MutationContext.cs" />
     <Compile Include="mutation\FlipBitMutation.cs" />
     <Compile Include="mutation\IMutation.cs" />
+    <Compile Include="mutation\MutationFactory.cs" />
     <Compile Include="population\Individual.cs" />
     <Compile Include="population\Population.cs" />
     <Compile Include="Program.cs" />
@@ -59,6 +61,7 @@
     <Compile Include="selection\LinearRankSelection.cs" />
     <Compile Include="selection\RouletteWheelSelection.cs" />
     <Compile Include="selection\SelectionContext.cs" />
+    <Compile Include="selection\SelectionFactory.cs" />
     <Compile Include="selection\TournamentSelection.cs" />
   </ItemGroup>
   <ItemGroup>

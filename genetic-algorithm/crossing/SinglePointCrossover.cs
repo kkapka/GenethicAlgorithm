@@ -2,7 +2,7 @@
 
 namespace genetic_algorithm.crossing
 {
-    class SinglePointCrossover
+    class SinglePointCrossover:ICrossover
     {
         public Population cross(Population p)
         {

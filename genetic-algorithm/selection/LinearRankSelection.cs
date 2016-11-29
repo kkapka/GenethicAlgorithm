@@ -2,7 +2,7 @@
 
 namespace genetic_algorithm.selection
 {
-    class LinearRankSelection
+    class LinearRankSelection:ISelection
     {
         public Population select(Population p)
         {
